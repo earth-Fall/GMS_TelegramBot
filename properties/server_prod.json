@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 3001
+  },
+  "token" : "7659676861:AAFrDTKfzwjCRoh3U-W6BiE5uwVP4QZamHQ",
+  "mode" : "Development Server",
+  "game" : "https://t.me/grandmasterscam_dev_bot/grandmasterscam_dev",
+  "channel" : "https://t.me/grandmasterscam_dev_bot/grandmasterscam_dev"
+}

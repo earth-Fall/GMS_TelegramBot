@@ -1,0 +1,9 @@
+{
+  "server": {
+    "port": 3001
+  },
+  "token" : "7732997436:AAFs_IfR09TDi9KfQmF50z_8o60KXMLKoEY",
+  "mode" : "Staging Server",
+  "game" : "https://t.me/grandmasterscam_staging_bot/grandmasterscam_staging",
+  "channel" : "https://t.me/grandmasterscam_staging_bot/grandmasterscam_staging"
+}
